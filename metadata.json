@@ -1,0 +1,8 @@
+{
+  "name": "VMS - Visitor Management System",
+  "description": "Comprehensive enterprise visitor management system for seamless check-in, host notifications, badge generation, live occupancy, and facility security.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
